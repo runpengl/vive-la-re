@@ -428,6 +428,7 @@ def get_puzzle_html(data_set: List[dict]):
 <style>
 p span {{ -webkit-text-stroke-width:1.2px; }}
 p {{ letter-spacing:1.2px; font-size:30px; font-family:sans-serif; font-weight:bold; color:tan; }}
+body {{ background-color:#eee; }}
 </style>
 </head>
 <body>'''
